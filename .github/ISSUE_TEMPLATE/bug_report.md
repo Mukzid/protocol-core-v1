@@ -1,33 +1,36 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Submit a bug ticket if you have an issue. If you're a user, check out the Story Protocol Discord server for faster assistance.
 title: ''
-labels: ''
+labels: 'bug'
 assignees: ''
-
 ---
+<!--- Fill out the fields if you're an integrator or contributor. -->
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## Description and context
+<!--- Provide a detailed description of the problem to expedite the process. -->
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+## Steps to reproduce
+<!--- Describe what happened step by step. -->
+<!--- If applicable, provide a link to a live example or include code to reproduce. -->
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+1.
+2.
+3.
 
-**Environment (please complete the following information):**
- - Browser or Nodejs
- - Browser [e.g. chrome, safari]
- - Browser Version [e.g. 22]
- - Node Version
+## Experienced behavior
+<!--- Describe what happened after the last step. -->
 
-**Additional context**
-Add any other context about the problem here.
+
+## Expected behavior
+<!--- Describe what was expected to happen instead. -->
+
+
+## Solution recommendation
+<!--- Not mandatory, but feel free to recommend a way to fix the issue. -->
+
+
+## Additional context
+<!--- Add any other context about the problem here, such as screenshots or logs. -->
+
